@@ -55,4 +55,13 @@
     "code": 228,
     "github": ""
   }
+    },
+  {
+    "slug": "BEESEI",
+    "name": "Beesei Token",
+    "address": "sei1vfju5mwl3vlwrqp5544plq8x7vqxrysn9cx7lym523r0p9c8y98s26mzvj",
+    "description": "",
+    "code": 79,
+    "github": ""
+  }
 ]
